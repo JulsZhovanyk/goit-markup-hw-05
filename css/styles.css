@@ -200,7 +200,7 @@ img {
     ),
     url("../images/main/background-main.jpg");
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: 1600px;
   background-position: center;
 }
 .main-section .container {
